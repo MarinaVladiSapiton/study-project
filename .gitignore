@@ -1,0 +1,7 @@
+.idea/*
+Task2.iml
+target/*
+*.class
+*.war
+*.jar
+*.ear
